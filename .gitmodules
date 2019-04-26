@@ -1,43 +1,43 @@
 [submodule "bundle/dracula-theme"]
 	path = bundle/dracula-theme
-	url = https://github.com/dracula/vim.git
+	url = git@github.com:dracula/vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/vim-yaml"]
 	path = bundle/vim-yaml
-	url = https://github.com/avakhov/vim-yaml
+	url = git@github.com:avakhov/vim-yaml.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
-	url = https://github.com/tpope/vim-surround
+	url = https://tpope.io/vim/surround.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = https://github.com/vim-airline/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
 [submodule "bundle/ansible-vim"]
 	path = bundle/ansible-vim
-	url = https://github.com/pearofducks/ansible-vim
+	url = git@github.com:pearofducks/ansible-vim.git
 [submodule "bundle/python-mode"]
 	path = bundle/python-mode
 	url = https://github.com/klen/python-mode
   ignore = dirty
 [submodule "bundle/vim-flake8"]
 	path = bundle/vim-flake8
-	url = https://github.com/nvie/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
 [submodule "bundle/vim-markdown-preview"]
 	path = bundle/vim-markdown-preview
-	url = https://github.com/JamshedVesuna/vim-markdown-preview.git
+	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
 [submodule "bundle/vim-wal"]
 	path = bundle/vim-wal
-	url = https://github.com/dylanaraps/wal.vim.git
+	url = git@github.com:dylanaraps/wal.vim.git
 [submodule "bundle/vim-dockerfile"]
 	path = bundle/vim-dockerfile
-	url = https://github.com/ekalinin/dockerfile.vim
+	url = https://github.com/ekalinin/Dockerfile.vim.git
 [submodule "bundle/vim-javascript"]
 	path = bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript
@@ -50,3 +50,21 @@
 [submodule "bundle/vim-airline-themes"]
 	path = bundle/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "/home/jordan/.vim/bundle/nerdtree"]
+	path = /home/jordan/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "/home/jordan/.vim/bundle/python-mode"]
+	path = /home/jordan/.vim/bundle/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule "/home/jordan/.vim/bundle/vim-airline-themes"]
+	path = /home/jordan/.vim/bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "/home/jordan/.vim/bundle/vim-coffee"]
+	path = /home/jordan/.vim/bundle/vim-coffee
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "/home/jordan/.vim/bundle/vim-go"]
+	path = /home/jordan/.vim/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "/home/jordan/.vim/bundle/vim-javascript"]
+	path = /home/jordan/.vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git

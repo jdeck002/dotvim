@@ -40,6 +40,7 @@ nnoremap j gj
 nnoremap k gk
 nnoremap gV `[v`]
 nnoremap <F7> :call Flake8()<CR>
+nnoremap <C-o> :NERDTreeToggle<CR>
 " edit vimrc/zshrc and load vimrc bindings
 nnoremap <leader>ev :vsp $MYVIMRC<CR>
 nnoremap <leader>ez :vsp ~/.zshrc<CR>
@@ -68,6 +69,7 @@ augroup configgroup
     autocmd FileType ruby setlocal shiftwidth=2
     autocmd FileType ruby setlocal softtabstop=2
     autocmd FileType ruby setlocal commentstring=#\ %s
+    autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
     autocmd FileType javascript setlocal tabstop=4
     autocmd FileType javascript setlocal shiftwidth=4
     autocmd FileType javascript setlocal softtabstop=4

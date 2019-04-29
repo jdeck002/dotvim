@@ -47,23 +47,23 @@
 [submodule "bundle/vim-airline-themes"]
 	path = bundle/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
-[submodule "/home/jordan/.vim/bundle/nerdtree"]
-	path = /home/jordan/.vim/bundle/nerdtree
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "/home/jordan/.vim/bundle/python-mode"]
-	path = /home/jordan/.vim/bundle/python-mode
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
 	url = https://github.com/python-mode/python-mode.git
-[submodule "/home/jordan/.vim/bundle/vim-airline-themes"]
-	path = /home/jordan/.vim/bundle/vim-airline-themes
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
-[submodule "/home/jordan/.vim/bundle/vim-coffee"]
-	path = /home/jordan/.vim/bundle/vim-coffee
+[submodule "bundle/vim-coffee"]
+	path = bundle/vim-coffee
 	url = https://github.com/kchmck/vim-coffee-script.git
-[submodule "/home/jordan/.vim/bundle/vim-go"]
-	path = /home/jordan/.vim/bundle/vim-go
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "/home/jordan/.vim/bundle/vim-javascript"]
-	path = /home/jordan/.vim/bundle/vim-javascript
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround

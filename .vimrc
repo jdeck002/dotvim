@@ -13,6 +13,7 @@ let mapleader=","
 
 colorscheme dracula
 
+set updatetime=100
 set tabstop=4
 set softtabstop=4
 set expandtab

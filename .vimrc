@@ -76,6 +76,9 @@ augroup configgroup
     autocmd FileType javascript setlocal softtabstop=4
     autocmd FileType python setlocal commentstring=#\ %s
     autocmd FileType python setlocal foldmethod=expr foldexpr=getline(v:lnum)=~'^\s*#'
+    autocmd FileType python setlocal tabstop=2
+    autocmd FileType python setlocal shiftwidth=2
+    autocmd FileType python setlocal softtabstop=2
     autocmd BufEnter *.zsh-theme setlocal filetype=zsh
     autocmd BufEnter Makefile setlocal noexpandtab
     autocmd BufEnter *.sh setlocal tabstop=2

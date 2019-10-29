@@ -53,6 +53,8 @@ highlight ColorColumn ctermbg=0 guibg=lightgrey
 set nowrap
 
 let g:pymode_python = 'python3'
+let g:pymode = 1
+let g:pymode_options = 1
 set list listchars=trail:.,extends:>
 let g:airline_symbols = {}
 let g:airline_symbols.maxlinenr = ''
